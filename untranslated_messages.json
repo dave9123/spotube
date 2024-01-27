@@ -1,53 +1,69 @@
 {
-    "ar": [
-        "proxy"
-    ],
-    "bn": [
-        "proxy"
-    ],
-    "ca": [
-        "proxy"
-    ],
-    "de": [
-        "proxy"
-    ],
-    "es": [
-        "proxy"
-    ],
-    "fa": [
-        "proxy"
-    ],
-    "fr": [
-        "proxy"
-    ],
-    "hi": [
-        "proxy"
-    ],
-    "it": [
-        "proxy"
-    ],
-    "ja": [
-        "proxy"
-    ],
-    "nl": [
-        "proxy"
-    ],
-    "pl": [
-        "proxy"
-    ],
-    "pt": [
-        "proxy"
-    ],
-    "ru": [
-        "proxy"
-    ],
-    "tr": [
-        "proxy"
-    ],
-    "uk": [
-        "proxy"
-    ],
-    "zh": [
-        "proxy"
-    ]
+  "ar": [
+    "proxy"
+  ],
+
+  "bn": [
+    "proxy"
+  ],
+
+  "ca": [
+    "proxy"
+  ],
+
+  "de": [
+    "proxy"
+  ],
+
+  "es": [
+    "proxy"
+  ],
+
+  "fa": [
+    "proxy"
+  ],
+
+  "fr": [
+    "proxy"
+  ],
+
+  "hi": [
+    "proxy"
+  ],
+
+  "it": [
+    "proxy"
+  ],
+
+  "ja": [
+    "proxy"
+  ],
+
+  "nl": [
+    "proxy"
+  ],
+
+  "pl": [
+    "proxy"
+  ],
+
+  "pt": [
+    "proxy"
+  ],
+
+  "ru": [
+    "proxy"
+  ],
+
+  "tr": [
+    "proxy"
+  ],
+
+  "uk": [
+    "proxy"
+  ],
+
+  "zh": [
+    "proxy"
+  ]
 }
