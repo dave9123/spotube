@@ -6,10 +6,10 @@ import 'package:spotube/components/settings/section_card_with_heading.dart';
 import 'package:spotube/extensions/context.dart';
 
 class SettingsDevelopersSection extends HookWidget {
-  const SettingsDevelopersSection({Key? key}) : super(key: key);
+ const SettingsDevelopersSection({Key? key}) : super(key: key);
 
-  @override
-  Widget build(BuildContext context) {
+ @override
+ Widget build(BuildContext context) {
     return SectionCardWithHeading(
       heading: context.l10n.developers,
       children: [
@@ -20,8 +20,16 @@ class SettingsDevelopersSection extends HookWidget {
           onTap: () {
             GoRouter.of(context).push("/settings/logs");
           },
+        ),
+        ListTile(
+          leading: const Icon(SpotubeIcons.proxy),
+          title: Text(context.l10n.proxy),
+          trailing: const Icon(SpotubeIcons.angleRight),
+          onTap: () {
+            GoRouter.of(context).push("/settings/proxy");
+          },
         )
       ],
     );
-  }
+ }
 }
